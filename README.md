@@ -1,5 +1,4 @@
 # SiddharthWarrier
-My GitHub Public profile
 👋 Hi, I’m Siddharth Warrier
 Aspiring Data Analyst | Skilled in Excel, SQL, Power BI, Tableau & Python | Transitioned from Finance to Analytics
 
